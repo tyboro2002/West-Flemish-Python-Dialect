@@ -1,0 +1,17 @@
+anders,else
+zegt,print
+verkloar,def
+zelve,self
+goat ervan ut,assert
+at,if
+gift were,return
+oe lank,len
+klasse,class
+smiet erbie,add
+leesd lintjes,readlines
+me,with
+smiet,raise
+getalleke,int
+zolangk,while
+ise,isinstance
+nie,not
